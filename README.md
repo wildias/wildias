@@ -31,4 +31,4 @@
 | JavaScript e Typescript | https://github.com/wildias/Certificados/blob/main/JavaScript-e-TypeScript.pdf                   |
 |MBA em Gestão de Empresa | https://github.com/wildias/Certificados/blob/main/MBAemGest%C3%A3oDeEmpresa.pdf                 |
 |React e ASP.NET Core 5.0 | https://github.com/wildias/Certificados/blob/main/React-e-ASP.NETCore5.0%2BEFCore5.0.pdf        |
-|VueJS + ASP.NET Core Web | https://github.com/wildias/Certificados/blob/main/VueJS%2BASP.NETCoreWebAPI%2BEF%20Core.pdf     |                                                             
+|VueJS + ASP.NET Core Web | https://github.com/wildias/Certificados/blob/main/VueJS%2BASP.NETCoreWebAPI%2BEF%20Core.pdf     |                                          
