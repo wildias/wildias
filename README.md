@@ -11,7 +11,35 @@
 <a href="https://github.com/wildias">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wildias&show_icons=true&theme=nightowl&line_height=27" alt="wildias github stats"/>
 </a>
-  
+
+### Linguagens
+<div>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a4.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a5.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a10.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a6.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a14.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a1.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a2.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a3.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a11.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a7.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a12.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a8.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a9.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a13.png"></code>
+
+### Tools
+
+<div>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/t2.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/t1.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/t3.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/t4.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/t5.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png"></code>
+</div>
+
 ### Contatos:
 
 <div>
