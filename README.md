@@ -1,19 +1,22 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
-[![Header](https://github.com/wildias/wildias/blob/main/Logo.png "Header")](https://github.com/wildias/)
+[![Header](https://github.com/wildias/wildias/blob/main/NovaLogo2.png "Header")](https://github.com/wildias/)
 
-<div>
+### GitHub Estatísticas
+
 <a href="https://github.com/wildias">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildias&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wildias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildias&theme=nightowl&hide_langs_below=1" />
+</a>
+&nbsp;
+<a href="https://github.com/wildias">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=wildias&show_icons=true&theme=nightowl&line_height=27" alt="wildias github stats"/>
+</a>
   
 ### Contatos:
 
 <div>
-<a href="https://www.instagram.com/wildias17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@wildias"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wilgner-dias-930b48191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.instagram.com/wildias17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 # Cursos finalizados
