@@ -59,7 +59,6 @@
 |      C# Completo        | https://github.com/wildias/Certificados/blob/main/csharp.pdf                                    |
 |C#, LINQ, .Net 7.0 e 8.0 | https://github.com/wildias/Certificados/blob/main/csharpEssential.pdf                           |
 |    Clean Architecture   | https://github.com/wildias/Certificados/blob/main/clean.pdf                                     |
-|C, C++, C#, Java e Python| https://github.com/wildias/Certificados/blob/main/Algoritmos-e-LogicaDeProgramacao.pdf          |
 |   Desenvolvimento WEB   | https://github.com/wildias/Certificados/blob/main/DesenvolvimentoWEB-Completo.pdf               |
 |   .Net 6.0 WEB API      | https://github.com/wildias/Certificados/blob/main/Dotnet6.pdf                                   |
 |  Gestão Ágil Com Scrum  | https://github.com/wildias/Certificados/blob/main/GestaoAgilComScrum.pdf                        |
