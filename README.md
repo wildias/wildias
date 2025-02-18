@@ -64,5 +64,7 @@
 |  Gestão Ágil Com Scrum  | https://github.com/wildias/Certificados/blob/main/GestaoAgilComScrum.pdf                        |
 |      Git e Github       | https://github.com/wildias/Certificados/blob/main/git.pdf                                       |
 | JavaScript e Typescript | https://github.com/wildias/Certificados/blob/main/JavaScript-e-TypeScript.pdf                   |
+|     Jornada .Net        | https://github.com/wildias/Certificados/blob/main/certificado%20jornada_5.png                   |
+|     Jornada Fullstack   | https://github.com/wildias/Certificados/blob/main/CertificadoHashtag.PDF                        |
 |React e ASP.NET Core 5.0 | https://github.com/wildias/Certificados/blob/main/React-e-ASP.NETCore5.0%2BEFCore5.0.pdf        |
 |VueJS + ASP.NET Core Web | https://github.com/wildias/Certificados/blob/main/VueJS%2BASP.NETCoreWebAPI%2BEF%20Core.pdf     |                                          
