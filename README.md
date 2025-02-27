@@ -17,6 +17,7 @@
 <code><img height="30" src="https://github.com/wildias/wildias/blob/main/a4.png"></code>
 <code><img height="30" src="https://github.com/wildias/wildias/blob/main/a5.png"></code>
 <code><img height="30" src="https://github.com/wildias/wildias/blob/main/a10.png"></code>
+<code><img height="30" src="https://github.com/wildias/wildias/blob/main/a15.png"></code>
 <code><img height="30" src="https://github.com/wildias/wildias/blob/main/a6.png"></code>
 <code><img height="30" src="https://github.com/wildias/wildias/blob/main/a14.png"></code>
 <code><img height="30" src="https://github.com/wildias/wildias/blob/main/a1.png"></code>
@@ -46,6 +47,12 @@
 <a href="https://www.linkedin.com/in/wilgner-dias-930b48191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://www.instagram.com/wildias17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+# Graduação
+
+|          Curso          |                                           Certificado                                           |
+|:-----------------------:|:------------------------------------------------------------------------------------------------|   
+|Gestão Da Tecnologia da Informação | https://github.com/wildias/Certificados/blob/main/GraduacaoTI.pdf                     |
 
 # Cursos finalizados
 
