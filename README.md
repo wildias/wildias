@@ -2,15 +2,19 @@
 
 [![Header](https://github.com/wildias/wildias/blob/main/NovaLogo2.png "Header")](https://github.com/wildias/)
 
-### GitHub Estatísticas
+## 📊 GitHub Estatísticas
 
-<a href="https://github.com/wildias">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildias&theme=nightowl&hide_langs_below=1" />
-</a>
-&nbsp;
-<a href="https://github.com/wildias">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=wildias&show_icons=true&theme=nightowl&line_height=27" alt="wildias github stats"/>
-</a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wildias&theme=nightowl" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wildias&theme=nightowl" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wildias&theme=nightowl" />
+</p>
+
+
+
 
 ### Linguagens
 <div>
