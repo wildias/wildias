@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
-[![Header](https://github.com/wildias/wildias/blob/main/LogoNova.png "Header")](https://github.com/wildias/)
+  [![Header](https://github.com/wildias/wildias/blob/main/LogoNova.png "Header")](https://github.com/wildias/)
 
 ## 📊 GitHub Estatísticas
 
