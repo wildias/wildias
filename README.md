@@ -58,6 +58,13 @@
 |:-----------------------:|:------------------------------------------------------------------------------------------------|   
 |Gestão Da Tecnologia da Informação | https://github.com/wildias/Certificados/blob/main/GraduacaoTI.pdf                     |
 
+# Pós Graduação
+
+|          Curso          |                                           Certificado                                           |
+|:-----------------------:|:------------------------------------------------------------------------------------------------|   
+|Desenvolvimento de Sistemas com C# | https://github.com/wildias/Certificados/blob/main/PosGraduacaoDesenvolvimentoC%23.pdf |
+|      Engenharia de Software       | https://github.com/wildias/Certificados/blob/main/PosGraduacaoEngenhariaSoftware.pdf  |
+
 # Cursos finalizados
 
 |          Curso          |                                           Certificado                                           |
